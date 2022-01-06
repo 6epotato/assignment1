@@ -10,14 +10,15 @@ body{
 }
 .flexbox-container{
     display: flex;
+    margin-bottom: 130px;
 }
 .half-width{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 10%;
     padding-top: 5%;
 }
 .half-width img{
-    width: 70%;
+    width: 60%;
 }
 .first-color{
     color: #ff8080;
@@ -29,4 +30,46 @@ body{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+    
+}
+.misson-2022{
+    text-align: center;
+}
+.tomato-color{
+    color: tomato;
+}
+.flex-container{
+    display: flex;
+    padding-left: 13%;
+    
+}
+.illu1 img{
+    width: 40%;
+}
+.illu2 img{
+    width: 40%;
+}
+.illu3 img{
+    width: 40%;
+}
+.flex1{
+    background-color: thistle;
+    padding: 10px;
+    max-width: 25%;
+    border-radius: 5px;
+    margin: 10px;
+}
+.flex2{
+    background-color: cadetblue;
+    padding: 10px;
+    max-width: 25%;
+    border-radius: 5px;
+    margin: 10px;
+}
+.flex3{
+    background-color: aquamarine;
+    padding: 10px;
+    max-width: 25%;
+    border-radius: 5px;
+    margin: 10px;
 }
