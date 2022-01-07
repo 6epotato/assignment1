@@ -61,21 +61,21 @@ body{
     background-color: thistle;
     padding: 10px;
     max-width: 25%;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 10px;
 }
 .flex2{
     background-color: cadetblue;
     padding: 10px;
     max-width: 25%;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 10px;
 }
 .flex3{
     background-color: aquamarine;
     padding: 10px;
     max-width: 25%;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 10px;
 }
 .section3{
@@ -89,4 +89,7 @@ body{
     width: 50%;
     padding-right: 10%;
     padding-top: 5%;
+}
+.section4{
+    display: flex;
 }
