@@ -1,5 +1,6 @@
 body{
     font-family: 'Luxurious Roman', cursive;
+    margin: 0;
 
 }
 .first-border{
@@ -10,7 +11,7 @@ body{
 }
 .flexbox-container{
     display: flex;
-    margin-bottom: 130px;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -80,6 +81,7 @@ body{
 }
 .section3{
     display: flex;
+    margin-bottom: 50px;
 }
 .half-width2 img{
     width: 60%;
@@ -92,4 +94,21 @@ body{
 }
 .section4{
     display: flex;
+}
+.foot{
+    text-align: center;
+    color: blanchedalmond;
+    
+    
+}
+#foot-color{
+    height: 100px;
+    padding-top: 5%;
+    background-color: black;
+   
+}
+.foot-p{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: x-small;
 }
